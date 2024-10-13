@@ -1,0 +1,15 @@
+# Ignore node_modules (commonly used in Node.js projects)
+node_modules
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore all files starting with "temp"
+temp*
+
+# Ignore Dockerfile itself and .dockerignore file (optional)
+Dockerfile
+.dockerignore
